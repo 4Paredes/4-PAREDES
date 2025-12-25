@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo-camera": "~13.4.4",
+    "expo-linear-gradient": "~12.3.0",
+    "lucide-react-native": "^0.4.0",
+    "expo-blur": "~12.4.1",
+    "expo-status-bar": "~1.6.0"
+  }
+}
